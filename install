@@ -1,0 +1,6 @@
+#!/bin/bash     
+
+sudo apt install git
+sudo apt intall maven 
+sudo apt install wget
+

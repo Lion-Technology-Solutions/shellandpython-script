@@ -1,0 +1,11 @@
+#!/bin/bash 
+
+echo  -n  "ENTER A NUMBER" 
+read  VAR 
+
+if   [$VAR   -gt   10  ]   # gt   =  greater than
+then  
+  echo "The variable is greater than 10"
+else 
+  echo "the variable is less than 10"
+fi 

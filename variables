@@ -1,0 +1,4 @@
+#!/bin/bash
+name=Felix
+lastname=Kevin 
+echo "my name is $name $lastname"

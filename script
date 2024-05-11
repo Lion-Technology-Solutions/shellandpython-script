@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+# #pwd 
+# date   # the date command prints date
+# whoami    #  prints whoever is logged into the system 
+# hostname  -i 
+# ls   -ltr
+
+#echo  "I must get hired this year" 
